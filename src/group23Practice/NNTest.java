@@ -1,3 +1,5 @@
+package group23Practice;
+
 public class NNTest {
 
 
@@ -8,5 +10,7 @@ public class NNTest {
         System.out.println("testing");
 
         System.out.println("i hope this is how its done in the real world");
+
+        //this class should be merged into group23practice
     }
 }
