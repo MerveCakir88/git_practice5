@@ -6,5 +6,5 @@ public class Practice1 {
 
     // is done
 
-
+  // step 3 is done
 }
